@@ -1,0 +1,2 @@
+#Desafio
+Esse repositório contem meus esforços para concluir o bootcamp da take blip que eu imagino que quer dizer mova-se. Terei que usar o mobile enquanto minha placa mãe vem da China. Eu não consigo imaginar como é o trabalho na blip, porém certamente eles tem um framework ágil eclético ou próprio pois dispensaram o scrum. Eu gostaria de por o que eu aprendi atuando na area técnica por alguns anos, minha aptidão para resolver quebra cabeças que me acreditar que sou apto para a area em prática.
