@@ -1,11 +1,20 @@
 body {
   background-color: #a8a8a8 ;
+  font-family : verdana;
 }
 
 
 
 #principal, .subtitle, .posttitle {
-  color : blue;
+  color : #1c1c1c;
+}
+#principal {
+text-transform : uppercase;
+font-size : 48px;
+}
+a {
+  text-decoration : line-through;
+  color : #1c1c1c;
 }
 .posttitle {
   font-size: 16px;
@@ -17,4 +26,9 @@ body {
   padding : 10px;
   border : 3px solid black;
   margin : 15px;
+  color : #1c1c1c;
+  text-transform : capitalize;
+}
+img {
+  display :block;
 }
